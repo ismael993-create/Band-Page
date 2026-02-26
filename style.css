@@ -165,7 +165,7 @@ h1 {
 }
 
 .video-section {
-    background-image: url(./img/bottom.png);
+    background-image: url(./img/bottom.png) !important;
     height: 800px;
     background-size: cover;
     background-position: center;
